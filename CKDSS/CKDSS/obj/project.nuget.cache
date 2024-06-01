@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "EQDFaVPqI3Qf+V2bw2Vz3fMiV7FptI9jBETplZAG2YdiQtL2XAgGctKVZYAr+ovrzavQv9nLsrhnjxGoCfeQvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mobni\\Downloads\\CKDSS\\CKDSS\\CKDSS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mobni\\.nuget\\packages\\documentformat.openxml\\3.0.2\\documentformat.openxml.3.0.2.nupkg.sha512",
+    "C:\\Users\\mobni\\.nuget\\packages\\documentformat.openxml.framework\\3.0.2\\documentformat.openxml.framework.3.0.2.nupkg.sha512",
+    "C:\\Users\\mobni\\.nuget\\packages\\system.io.packaging\\8.0.0\\system.io.packaging.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
